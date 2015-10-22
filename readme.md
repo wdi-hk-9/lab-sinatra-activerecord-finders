@@ -1,13 +1,3 @@
----
-title: ActiveRecord Finders
-type: lab
-duration: "1:25"
-creator:
-    name: Micah Rich
-    city: LA
-competencies: Relational DBs
----
-
 # ActiveRecord Finders
 
 ## Introduction
